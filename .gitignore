@@ -1,1 +1,3 @@
 otp_data/*.pbf
+valhalla/data/*
+!valhalla/data/mini.osm.pbf
